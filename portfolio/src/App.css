@@ -1,0 +1,33 @@
+#h2 {
+    color: rgb(255, 0, 0);
+}
+
+#link {
+    color: red;
+}
+#nav {
+    color: red;
+}
+#reeldeal {
+    margin: 10vh;
+    margin-left: 5vh;
+    border-radius: 4px;
+    width: 700px;
+}
+#sottb {
+    margin: 10vh;
+    margin-left: 5vh;
+    border-radius: 4px;
+    width: 400px;
+}
+#About, #Work, #Contact {
+    background-color: lightblue;
+}
+
+#foot {
+background-color: rgb(255, 0, 0);
+}
+#title {
+    color: rgb(255, 0, 0);
+    font-size: larger;
+}
