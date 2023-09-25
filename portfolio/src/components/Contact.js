@@ -1,7 +1,10 @@
 function Contact() {
+  let style = {
+    display: "none"
+  }
   return (
     <div>
-      <div id="Contact" className="w3-container w3-card">
+      <div id="Contact" className="w3-container w3-card"style = {style}>
         <h2 id="h2" className="w3-padding-16">
           Contact
         </h2>

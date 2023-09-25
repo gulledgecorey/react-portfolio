@@ -4,7 +4,7 @@ function Header() {
   return (
     <div className="w3-content w3-margin-top" style={{ maxWidth: 1400 }}>
       <div className="w3-row-padding">
-        <div className="w3-third">
+        <div>
           <div className="w3-white w3-text-grey w3-card-4">
             <div className="w3-container">
               <h2 id="h2">Corey Gulledge</h2>

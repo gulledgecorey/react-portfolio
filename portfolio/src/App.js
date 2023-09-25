@@ -7,7 +7,7 @@ function App () {
     return (
         <div>
          <Header/>   
-      <div className="w3-twothird">
+      <div>
        <About/>
         <Project/>
         <br/>

@@ -5,9 +5,6 @@
 #link {
     color: red;
 }
-#nav {
-    color: red;
-}
 #reeldeal {
     margin: 10vh;
     margin-left: 5vh;
@@ -20,7 +17,7 @@
     border-radius: 4px;
     width: 400px;
 }
-#About, #Work, #Contact {
+#nav {
     background-color: lightblue;
 }
 

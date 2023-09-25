@@ -2,9 +2,11 @@ import img2 from "../ReelDeal.png"
 import img3 from "../Shoutouttothebeat.png"
 import "../App.css"
 function Project () {
-
+  let style = {
+    display: "none"
+  }
     return (
-        <div id="Work" className="w3-container w3-card">
+        <div id="Work" className="w3-container w3-card"style = {style}>
         <h2 id="h2" className="w3-padding-16">Work</h2>
         <div className="w3-container">
         <p id="title">Reel Deal</p>
