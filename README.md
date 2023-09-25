@@ -10,6 +10,7 @@ My portfolio created with react!
 - [Contributions](#Contributions)
 - [Questions](#Questions)
 - [License](#License)
+- [Test](#Test)
 - [Deployment](#Deployment)
 - [ScreenShot](#ScreenShot)
 
