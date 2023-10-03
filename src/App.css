@@ -5,18 +5,13 @@
 #link {
     color: red;
 }
-#reeldeal {
+#reeldeal, #sottb, #wds, #portfolio, #quiz, #note{
     margin: 10vh;
     margin-left: 5vh;
     border-radius: 4px;
-    width: 700px;
+    width: 500px;
 }
-#sottb {
-    margin: 10vh;
-    margin-left: 5vh;
-    border-radius: 4px;
-    width: 400px;
-}
+
 #nav {
     background-color: lightblue;
 }

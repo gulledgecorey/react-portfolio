@@ -1,4 +1,4 @@
-import img1 from "../4E832AC1-6077-4698-8E38-F3278F5EA7DB_1_105_c.jpeg"
+import img1 from "../images/4E832AC1-6077-4698-8E38-F3278F5EA7DB_1_105_c.jpeg"
 import Nav from "./Nav"
 function Header() {
   return (
