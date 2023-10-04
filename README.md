@@ -41,6 +41,6 @@ N/A
 https://gulledgecorey.github.io/react-portfolio/
 
 ## ScreenShot
-<img width="1440" alt="image" src="https://github.com/gulledgecorey/react-portfolio/assets/130395149/7bac8acb-2402-404f-a738-e4160342c905">
+<img width="1438" alt="image" src="https://github.com/gulledgecorey/react-portfolio/assets/130395149/3a871305-041b-4c3d-95f5-b06164506189">
 
 
