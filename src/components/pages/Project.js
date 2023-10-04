@@ -1,17 +1,14 @@
-import img2 from "../images/ReelDeal.png"
-import img3 from "../images/Shoutouttothebeat.png"
-import img4 from "../images/WorkDayScheduler.png"
-import img5 from "../images/Portfolio.png"
-import img6 from "../images/Quiz.png"
-import img7 from "../images/Note-Taker.png"
+import img2 from "../../images/ReelDeal.png"
+import img3 from "../../images/Shoutouttothebeat.png"
+import img4 from "../../images/WorkDayScheduler.png"
+import img5 from "../../images/Portfolio.png"
+import img6 from "../../images/Quiz.png"
+import img7 from "../../images/Note-Taker.png"
 
-import "../App.css"
+import "../../App.css"
 function Project () {
-  let style = {
-    display: "none"
-  }
     return (
-        <div id="Work" className="w3-container w3-card"style = {style}>
+        <div id="Work" className="w3-container w3-card">
         <h2 id="h2" className="w3-padding-16">Work</h2>
         <div className="w3-container">
         <p id="title">Reel Deal</p>
